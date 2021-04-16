@@ -7,10 +7,10 @@ assignees: ''
 
 ---
 
-Name:
-Version: 
+Name:dawn break ll -ligh and dark
+Version:1.0.66308
 Google Play Link:
-
-Has ARMv7 Build:
-GLES version:
-Online Features:
+https://play.google.com/store/apps/details?id=com.auer.dawnbreak.legend.light.dark
+Has ARMv7 Build:ARMV7
+GLES version:GLES3
+Online Features:YES AND NO
