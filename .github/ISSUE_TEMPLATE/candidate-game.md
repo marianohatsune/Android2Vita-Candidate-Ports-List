@@ -7,10 +7,10 @@ assignees: ''
 
 ---
 
-Name:
-Version: 
-Google Play Link:
+Name:pou
+Version:1.4.84
+Google Play Link:https://play.google.com/store/apps/details?id=me.pou.app
 
-Has ARMv7 Build:
-GLES version:
-Online Features:
+Has ARMv7 Build:ARM6
+GLES version:GLES2
+Online Features:no
